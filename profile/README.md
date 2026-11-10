@@ -6,4 +6,4 @@ We open-source our systems so humans can build on them today, and models can lea
 
 #### People:
 **Current Grad Students:** [Sunny Yasser](https://yassersun.github.io/) (2024-), [Anas Dorbani](https://anasdorbani.com/) (2025-), [Eyad Salama](https://izarrios.github.io/) (2026-), [Yassir Fir](#) (2026-)         
-**PI:** [Amine Mhedhbi](https://amine.io/), Assistant Professor    
+**PI:** [Amine Mhedhbi](https://amine.io/), Faculty    
